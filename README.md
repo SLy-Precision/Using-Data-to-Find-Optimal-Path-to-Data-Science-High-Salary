@@ -32,6 +32,6 @@ Tras el análisis estadístico y el entrenamiento de modelos, pudimos extraer in
 
 Este proyecto nos permitió transitar desde la teoría de la materia hasta la práctica real, enfrentándonos a desafíos comunes en el análisis de datos como la limpieza de variables categóricas, el manejo de outliers y la interpretación de coeficientes. Es, en esencia, nuestra hoja de ruta para entender cómo la estadística se convierte en una ventaja competitiva en el mercado laboral actual.
 
-## 👥 Autores
+## Autores
 * **Jesús Antonio Guerrero López**
 * **Sebastián García Rodríguez**
